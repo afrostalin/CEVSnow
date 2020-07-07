@@ -1,8 +1,6 @@
 // Copyright (C) 2019 Ilya Chernetsov. All rights reserved. Contacts: <chernecoff@gmail.com>
 // License: https://github.com/afrostalin/CEVSnow/blob/master/LICENSE
 
-#pragma once
-
 #include "StdAfx.h"
 #include "Snow.h"
 
