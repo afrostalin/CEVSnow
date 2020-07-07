@@ -4,8 +4,6 @@
 #pragma once
 
 #include <CryEntitySystem/IEntityComponent.h>
-#include <CryEntitySystem/IEntity.h>
-
 
 class CSnow final : public IEntityComponent
 {
